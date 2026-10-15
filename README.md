@@ -1,6 +1,6 @@
 # Ski Trip Planner & Cost Splitter
 
-A single-page, offline-friendly planner for a two-family ski trip (Feb 16–21, 2027) with **Colorado** and **Utah** tabs:
+A single-page, offline-friendly planner for a two-family ski trip (depart Wed Feb 17, 2027, return Sun Feb 21, 2027, 4 nights) with **Colorado** and **Utah** tabs:
 flights, lodging (slopeside / Airbnb / hotel), lift tickets and rentals, an optional hot spring day,
 rental-car comparison, an interactive map, and a per-family cost split. English / 中文 toggle.
 
